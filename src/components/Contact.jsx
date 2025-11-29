@@ -19,7 +19,7 @@ const Contact = () => {
             <Mail /> Send Email
           </a>
           <a 
-            href="https://github.com/Vineet"
+            href="https://github.com/Vineet3458"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-gray-800 border border-gray-700 px-8 py-4 rounded-full font-semibold hover:border-purple-500 transition-all hover:scale-105 flex items-center justify-center gap-2"
