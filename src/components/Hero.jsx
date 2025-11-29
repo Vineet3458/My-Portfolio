@@ -79,11 +79,11 @@ const Hero = ({ scrollToSection }) => {
              className="w-12 h-12 rounded-full bg-slate-800/50 backdrop-blur-sm border border-blue-500/30 flex items-center justify-center hover:bg-blue-600 hover:border-blue-600 hover:scale-110 transition-all group">
             <Mail size={20} className="text-gray-400 group-hover:text-white transition-colors" />
           </a>
-          <a href="https://github.com/Vineet" target="_blank" rel="noopener noreferrer"
+          <a href="https://github.com/Vineet3458" target="_blank" rel="noopener noreferrer"
              className="w-12 h-12 rounded-full bg-slate-800/50 backdrop-blur-sm border border-blue-500/30 flex items-center justify-center hover:bg-blue-600 hover:border-blue-600 hover:scale-110 transition-all group">
             <Github size={20} className="text-gray-400 group-hover:text-white transition-colors" />
           </a>
-          <a href="https://linkedin.com/in/vineet" target="_blank" rel="noopener noreferrer"
+          <a href="https://www.linkedin.com/in/vineet-yadav-804820190/" target="_blank" rel="noopener noreferrer"
              className="w-12 h-12 rounded-full bg-slate-800/50 backdrop-blur-sm border border-blue-500/30 flex items-center justify-center hover:bg-blue-600 hover:border-blue-600 hover:scale-110 transition-all group">
             <Linkedin size={20} className="text-gray-400 group-hover:text-white transition-colors" />
           </a>
